@@ -1,7 +1,7 @@
 {
 	"name": "com.pixelwizards.ncalc",
 	"displayName":"com.pixelwizards.ncalc",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"unity": "2018.3",
 	"description": "NCalc C# Expression evaluator",
 	"dependencies": {
