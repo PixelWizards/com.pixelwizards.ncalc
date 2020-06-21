@@ -21,3 +21,11 @@ For example:
     ...
     }
  }```
+
+```
+
+# Documentation / How to Use
+
+Check the docs page for how to use
+
+[Documentation](Docs/index.md)
